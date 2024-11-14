@@ -1,6 +1,6 @@
-# Tesla Stock Price Forecasting using ARIMA
+# Stock Price Forecasting using ARIMA
 
-This project aims to forecast Tesla's stock prices using an ARIMA (AutoRegressive Integrated Moving Average) model. The model is trained on historical stock price data and evaluated against actual prices to assess its effectiveness in handling highly volatile financial data.
+This project aims to forecast  stock prices using an ARIMA (AutoRegressive Integrated Moving Average) model. The model is trained on historical stock price data and evaluated against actual prices to assess its effectiveness in handling highly volatile financial data.
 
 ## Table of Contents
 - [Project Structure](#project-structure)
@@ -21,7 +21,7 @@ This project aims to forecast Tesla's stock prices using an ARIMA (AutoRegressiv
 ## Workflow
 
 ### Data Collection & Preprocessing
-1. **Collect Tesla stock price data**: Obtain historical stock price data for training and testing.
+1. **Collect stock price data**: Obtain historical stock price data for training and testing.
 2. **Data Cleaning**: Handle missing values, split data into training and testing sets, and scale if necessary.
 
 ### Exploratory Data Analysis (EDA)
@@ -50,8 +50,8 @@ This project aims to forecast Tesla's stock prices using an ARIMA (AutoRegressiv
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/tesla-stock-forecasting.git
-cd tesla-stock-forecasting
+git clone https://github.com/eliasgirmah/time_series_modele.git
+cd time_series_modele
 pip install -r requirements.txt
 
 
